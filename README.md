@@ -14,8 +14,8 @@ This repository contains ASTR 598 class materials.
 
  * [Syllabus and course description](syllabus/A598_syllabus_2024.pdf)
  * Lectures: [Notebooks](lectures/)
- * [Canvas](https://canvas.uw.edu/courses/1545807).
- * JupyterHub: [JupyterHub](https://rttl.axdd.s.uw.edu/2022-winter-astr-598-a/)
+ * [Canvas](https://canvas.uw.edu/courses/1718040).
+ * JupyterHub: [JupyterHub](https://jupyter.rttl.uw.edu/2024-spring-astr-598-a)
 
 ## Reference textbook
 
