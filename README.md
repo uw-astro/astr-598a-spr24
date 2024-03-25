@@ -1,4 +1,4 @@
-# ASTR 598, Winter 2022, University of Washington:
+# ASTR 598, Spring 2024, University of Washington:
 # Machine Learning in Astronomy
 
 Andy Connolly ([@connolly](https://github.com/connolly)), Mario Juric ([@mjuric](https://github.com/mjuric))
